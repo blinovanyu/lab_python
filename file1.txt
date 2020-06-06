@@ -1,0 +1,5 @@
+Anna 17
+Pavel 20
+Lena 40
+Dima 25
+Ivan 90

@@ -1,0 +1,10 @@
+Name    Age     Telephone
+
+Anna    17      -
+Dima    25      33
+Inna    -       00
+Ivan    90      -
+Lena    40      -
+Marina  -       22
+Pavel   20      11
+Petr    -       44
