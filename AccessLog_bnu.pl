@@ -11,7 +11,6 @@ if (my $Log = open "C:/myperl/access.log", :r)
 		{
 			#$j+= 1;
 			my ($r) = $l.split(' - - ');
-			#say $r, $r.WHAT;
 			if ($r ~~ /(^\d ** 0^..^4\.\d  ** 0^..^4\.\d  ** 0^..^4\.\d  ** 0^..^4)/)
 				{$IP_hash{$r}++;}
 				#last if ($j == 50);
